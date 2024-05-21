@@ -77,3 +77,49 @@
         margin-left: 220px;
     }
 }
+@media (min-width: 1366px) {
+    .header {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .insur_topic {  
+        padding-top: 50px;
+    }
+    .buttonrow {
+        margin: 40px 0 0 0;
+    }
+    .btn_1 {
+        width: 180px;
+        height: 50px;
+    }
+    .img_adver {
+        height: 40px;
+        margin-top: 80px;
+        margin-bottom: 45px;
+        margin-right: 15px;
+    }
+    .bgd_round_1 {
+        margin-top: 340px;
+        margin-left: 0px;
+    }
+    .bgd_round_2 {
+        margin-top: 80px;
+        margin-left: 280px;
+    }
+    .bgd_round_3 {
+        margin-top: 360px;
+        margin-left: 130px;
+    }
+    .wrapper_left {
+        margin-top: 150px;
+        margin-left: -40px;
+    }
+    .wrapper_right {
+        margin-top: 200px;
+        margin-left: 200px;
+    }
+    .vector svg {
+        width: 90%; 
+        height: 90%;
+    }
+}
