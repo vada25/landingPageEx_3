@@ -1,5 +1,4 @@
-/*------------------- MEDIA------------------ */
-@media (min-width: 1366px) and (max-width: 1536px) {
+@media (min-width: 1536px) {
     
     .img_adver {
         height: 35px;  
@@ -37,5 +36,44 @@
     .vector svg {
         width: 80%; 
         height: 80%;
+    }
+}
+@media (min-width: 1440px) {
+    .header {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    .buttonrow {
+        margin: 80px 0 0 0;
+    }
+    .btn_1 {
+        width: 200px;
+        height: 60px;
+    }
+    .img_adver {
+        height: 40px;
+        width: 100px;
+    }
+    .img_side {
+        background-size: 100%;
+    }
+    .bgd_round_1 {
+        margin-top: 360px;
+        margin-left: -30px;
+    }
+    .bgd_round_2 {
+        margin-top: 80px;
+        margin-left: 300px;
+    }
+    .bgd_round_3 {
+        margin-top: 380px;
+        margin-left: 140px;
+    }
+    .wrapper_left {
+        margin-top: 200px;
+    }
+    .wrapper_right {
+        margin-top: 250px;
+        margin-left: 220px;
     }
 }
