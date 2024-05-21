@@ -3,6 +3,9 @@ body {
     font-family: Roboto, sans-serif;
     color: #FFF;
 }
+.mainpage {
+    height: 100%;
+}
 .text {
     font-size: 21.426px;
     font-style: normal;
