@@ -1,0 +1,32 @@
+/*------------------- MEDIA------------------ */
+@media (min-width: 1366px) and (max-width: 1536px) {
+    
+    .img_adver {
+        height: 35px;
+        
+    }
+    .bgd_round_1 {
+        margin-top: 460px;
+        margin-left: 0;
+    }
+    .bgd_round_2 {
+        margin-top: 390px;
+        margin-left: 250px;
+    }
+    .bgd_round_3 {
+        margin-top: 620px;
+        margin-left: 120px;
+    }
+    .wrapper_left {
+        margin-top: 120px;
+    }
+    .wrapper_right {
+        height: 35%;
+        margin-top: 180px;
+        margin-left: 200px;
+    }
+    .vector svg {
+        width: 80%; 
+        height: 80%;
+    }
+}
