@@ -1,0 +1,50 @@
+
+body {
+    font-family: Roboto, sans-serif;
+    color: #FFF;
+}
+.text {
+    font-size: 21.426px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 46.869px;
+    letter-spacing: 0.15px;
+}
+.text_1 {
+    padding: 0 auto;
+}
+.btn {
+    width: 155px;
+    height: 55px;
+}
+.btn:hover {
+    
+    background-color: white;
+}
+.insur_topic {  
+    color: #FFF;
+    font-family: "Playfair Display";
+    font-size: 69.633px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 87.042px;
+    padding-top: 110px;
+}
+.mainpage {
+    background-color: #136342;
+    width: 100%;
+}
+.header {
+    padding-top: 55px;
+    padding-left: 190px;
+    padding-right: 190px;
+    position: relative;
+    z-index: 3;
+}
+
+.img_side {
+    background-image: url('img/pexels-photo.png');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
