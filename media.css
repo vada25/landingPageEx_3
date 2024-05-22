@@ -3,14 +3,14 @@
         height: 35px;  
     }
     .insur_topic {  
-        padding-top: 100px;
+        padding-top: 120px;
     }
     .header {
         padding-left: 130px;
         padding-right: 130px;
     }
     .buttonrow {
-        margin: 50px 0 0 0;
+        margin: 70px 0 70px 0;
     }
     .bgd_round_1 {
         margin-top: 400px;
@@ -43,7 +43,7 @@
         padding-right: 100px;
     }
     .buttonrow {
-        margin: 100px 0 0 0;
+        margin: 100px 0 50px 0;
     }
     .btn_1 {
         width: 200px;
